@@ -1,0 +1,114 @@
+{
+  "settings": {
+    "name": "Site-12-01_0841",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.11.3",
+    "siteFonts": [],
+    "uniqCompNum": 10,
+    "versionPublish": "4.11.3"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {},
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showHeader": true,
+            "showHeaderText": true,
+            "showSubtitles": true,
+            "showTitles": true,
+            "showText": true,
+            "showButtons": true,
+            "activeColor": "#fff",
+            "themeColor": "@primaryColor",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1281.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#f1c40f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#2980b9",
+            "overlayOpacity": 0.9
+          },
+          "header": "Ready to get started?",
+          "text": "I have over 20 years of experience as a technical writer and instructional designer. I also have eight years of experience as a graphic/editorial designer in the printing industry. Now, after training with a professional coach, I add voice over to the mixture of disciplines.",
+          "subtitle1": "visual design",
+          "subtitle2": "Voice over",
+          "title1": "Writing and design",
+          "title2": "Professional and trusting",
+          "text1": "For books/ebooks, magazines, catalogs, newsletters, white papers, and pamphlets/brochures. Instructional design and video production for eLearning modules.",
+          "text2": "With a confident, educated, warm, and friendly tone for corporate training, explainer and how-to's, technical narratives, and even commercial spots.",
+          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">start here</a>",
+          "buttons2": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">start here</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call7",
+          "_anchor": "call7-1"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright &nbsp;©2019&nbsp;<a href=\"http://mobirise.com\">Patti Short</a>.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-7"
+        }
+      ]
+    }
+  }
+}
